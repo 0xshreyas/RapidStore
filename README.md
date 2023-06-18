@@ -29,4 +29,4 @@ This folder contains all the lotus related files needed for creating a lite node
 This folder contains frontend part of the project implemented in NextJS.
 
 
-You can check the youtube demonstration to know more :- https://youtu.be/Sag1wFHP4wU
+
