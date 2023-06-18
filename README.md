@@ -1,4 +1,4 @@
-# StoreDon-FEVM-ETHFORALL
+# RapidStore-FEVM-ETHFORALL
 
 <img width="887" alt="Screenshot 2023-02-19 at 11 23 26 PM" src="https://user-images.githubusercontent.com/66505181/219967509-1ee0ceb1-4e4c-4710-9910-a2fd70108586.png">
 
